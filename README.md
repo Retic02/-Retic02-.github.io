@@ -1,4 +1,4 @@
-# 깃허브 주소 -Retic02-.github.io
+# 깃허브 주소 : https://github.com/Retic02/-Retic02-.github.io
 
 # 활용한 테마 : https://github.com/startbootstrap/startbootstrap-resume
 
